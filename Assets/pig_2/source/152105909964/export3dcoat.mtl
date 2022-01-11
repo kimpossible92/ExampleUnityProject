@@ -1,0 +1,132 @@
+newmtl Mon
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Mon_color.tga
+map_Ks export3dcoat_Mon_gloss.tga
+map_bump export3dcoat_Mon_nmap.tga
+newmtl Glass
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Glass_color.tga
+map_Ks export3dcoat_Glass_gloss.tga
+map_bump export3dcoat_Glass_nmap.tga
+newmtl Pug
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Pug_color.tga
+map_Ks export3dcoat_Pug_gloss.tga
+map_bump export3dcoat_Pug_nmap.tga
+newmtl Znak
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Znak_color.tga
+map_Ks export3dcoat_Znak_gloss.tga
+map_bump export3dcoat_Znak_nmap.tga
+newmtl Kurt
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Kurt_color.tga
+map_Ks export3dcoat_Kurt_gloss.tga
+map_bump export3dcoat_Kurt_nmap.tga
+newmtl Lent
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Lent_color.tga
+map_Ks export3dcoat_Lent_gloss.tga
+map_bump export3dcoat_Lent_nmap.tga
+newmtl Pol
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Pol_color.tga
+map_Ks export3dcoat_Pol_gloss.tga
+map_bump export3dcoat_Pol_nmap.tga
+newmtl Pig
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Pig_color.tga
+map_Ks export3dcoat_Pig_gloss.tga
+map_bump export3dcoat_Pig_nmap.tga
+newmtl Hat
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Hat_color.tga
+map_Ks export3dcoat_Hat_gloss.tga
+map_bump export3dcoat_Hat_nmap.tga
+newmtl Rub
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Rub_color.tga
+map_Ks export3dcoat_Rub_gloss.tga
+map_bump export3dcoat_Rub_nmap.tga
+newmtl Hvost
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Hvost_color.tga
+map_Ks export3dcoat_Hvost_gloss.tga
+map_bump export3dcoat_Hvost_nmap.tga
+newmtl Prov
+Ns 100.000
+d 1.00000
+illum 2
+Kd 1.00000 1.00000 1.00000
+Ka 0.00000 0.00000 0.00000
+Ks 1.00000 1.00000 1.00000
+Ke 0.00000e+0 0.00000e+0 0.00000e+0
+map_Kd export3dcoat_Prov_color.tga
+map_Ks export3dcoat_Prov_gloss.tga
+map_bump export3dcoat_Prov_nmap.tga
